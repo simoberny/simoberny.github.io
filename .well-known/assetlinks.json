@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.howsthere.howsthere2",
+      "sha256_cert_fingerprints": [
+        "64:A7:DB:C5:BB:EF:03:71:89:9A:2F:57:AC:D0:A0:44:35:F6:F9:12:39:E3:E4:A6:B8:D3:2E:CF:0D:B1:E0:E3"
+      ]
+    }
+  }
+]
